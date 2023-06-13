@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k3ld0nS9qGwaqS7Y4t9+c2AxVmXAMCNX9qmAM4jBXz1MthlCNHkHXQ9YVjil9O8nzCvT8bf6Hjuk5Sh6CNmv7Q==",
+  "dgSpecHash": "30VXLHJeWRnyynGEWJrB/8GjrR3l2jGSoZ8Xx9dI8KVTBO4jT8dSFG4LbiXJns84bEYlDxIIhT67Jah0pJyNYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gogag\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\gogag\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

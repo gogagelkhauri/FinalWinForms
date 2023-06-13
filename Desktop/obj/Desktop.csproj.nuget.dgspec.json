@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Desktop\\Desktop.csproj": {}
+    "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Desktop\\Desktop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\App\\App.csproj": {
+    "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\App\\App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\App\\App.csproj",
+        "projectUniqueName": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\App\\App.csproj",
         "projectName": "App",
-        "projectPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\App\\App.csproj",
+        "projectPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\App\\App.csproj",
         "packagesPath": "C:\\Users\\gogag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\App\\obj\\",
+        "outputPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gogag\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Domain\\Domain.csproj"
+              "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Domain\\Domain.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Desktop\\Desktop.csproj": {
+    "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Desktop\\Desktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Desktop\\Desktop.csproj",
+        "projectUniqueName": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Desktop\\Desktop.csproj",
         "projectName": "Desktop",
-        "projectPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Desktop\\Desktop.csproj",
+        "projectPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Desktop\\Desktop.csproj",
         "packagesPath": "C:\\Users\\gogag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Desktop\\obj\\",
+        "outputPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Desktop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gogag\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -87,11 +87,11 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\App\\App.csproj": {
-                "projectPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\App\\App.csproj"
+              "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\App\\App.csproj": {
+                "projectPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\App\\App.csproj"
               },
-              "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -162,14 +162,14 @@
         }
       }
     },
-    "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Domain\\Domain.csproj": {
+    "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\gogag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gogag\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -217,14 +217,14 @@
         }
       }
     },
-    "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\gogag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gogag\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -241,8 +241,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\Final\\Domain\\Domain.csproj"
+              "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\gogag\\Documents\\dev\\c# Univerisy\\task10\\FinalWinForms\\Domain\\Domain.csproj"
               }
             }
           }
