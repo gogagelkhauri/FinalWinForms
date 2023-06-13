@@ -1,0 +1,6 @@
+#adding migrations from web directory:
+dotnet ef migrations add Initial --context AppDbContext -p ../Infrastructure/Infrastructure.csproj -s Desktop.csproj -o Migrations
+
+#update database:
+dotnet ef database update -c AppDbContext -p ../Infrastructure/Infrastructure.csproj -s Desktop.csproj
+
